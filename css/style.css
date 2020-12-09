@@ -1,0 +1,18 @@
+@import	url("https://fonts.googleapis.com/css2?family=Andika+New+Basic&family=Nerko+One&display=swap");
+@import url(components/container.css);
+@import url(components/avatar.css);
+@import url(components/button.css);
+@import url(components/banner.css);
+@import url(components/card.css);
+body {
+    font-family: 'Nerko One', cursive;
+	font-size: 22px;
+	margin: 5px;
+}
+h1,	h2,	h3 {
+	font-family: 'Andika New Basic', sans-serif;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+}
